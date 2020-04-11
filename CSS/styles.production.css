@@ -146,8 +146,8 @@ input{
 }
 
 .intro{
-    text-align: center;
-    font-size: var(--text-size);
+  text-align: center;
+  font-size: var(--text-size);
   font-weight: var(--weight-bold);
   color:darkslateblue;
   font-family: fantasy;
